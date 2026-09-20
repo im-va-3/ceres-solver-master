@@ -24,12 +24,10 @@
   "schema_version": "1.0",
   "snapshot": {
     "category": "04-optimization-and-control",
-    "copied_bytes": 6163889,
-    "copied_files": 696,
+    "copied_bytes": 11866607,
+    "copied_files": 733,
     "date": "2026-08-25",
-    "excluded_directories": [
-      "data"
-    ],
+    "excluded_directories": [],
     "excluded_files": [],
     "folder": "ceres-solver-master",
     "kind": "independent-code-snapshot",
